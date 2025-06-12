@@ -32,6 +32,9 @@ This tool doesn't just guess. It follows very strict rules:
 
 ---
 
+## Watch the demo 
+https://github.com/user-attachments/assets/e9418ca1-f04f-4cfc-b760-d129f4a5e442
+
 ## 🛠️ Requirements
 
 Make sure you have these installed:
